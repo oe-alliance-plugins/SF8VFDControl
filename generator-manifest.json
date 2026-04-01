@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "vfd controller",
+  "description_recipe": "vfd controller",
+  "history_source_dir": "SF8VFDControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-vfdcontrol",
+  "module_dir_name": "SF8VFDControl",
+  "output_subdir": "SF8VFDControl",
+  "package_name": "enigma2-plugin-systemplugins-vfdcontrol-s-f8-v-f-d-control",
+  "plugin_src_rel": "SF8VFDControl",
+  "python_package": "SF8VFDControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "SF8VFDControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}

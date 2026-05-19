@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the VFDControl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: VFDControl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:49+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,38 +17,50 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../plugin.py:61
 msgid "Always off"
 msgstr ""
 
+#: ../plugin.py:261
 msgid "Cancel"
 msgstr ""
 
+#: ../plugin.py:384
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "Channelnumber in Standby Clock"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "Channelnumber in Standby off"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "Clock always"
 msgstr ""
 
+#: ../plugin.py:262
 msgid "Save"
 msgstr ""
 
+#: ../plugin.py:276 ../plugin.py:290
 msgid "Show on VFD"
 msgstr ""
 
+#: ../plugin.py:278
 msgid "Time mode"
 msgstr ""
 
+#: ../plugin.py:263
 msgid "Update Date/Time"
 msgstr ""
 
+#: ../plugin.py:341
 msgid "VFD_SF8"
 msgstr ""

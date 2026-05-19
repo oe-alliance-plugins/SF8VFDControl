@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ViX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-31 10:20+0200\n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: Andy Blackburn, Rob van der Does\n"
@@ -18,38 +18,50 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:61
 msgid "Always off"
 msgstr "Altijd uit"
 
+#: ../plugin.py:261
 msgid "Cancel"
 msgstr "Annuleer"
 
+#: ../plugin.py:384
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "Channelnumber in Standby Clock"
 msgstr "Zendernummer in Stand-by Klok"
 
+#: ../plugin.py:61
 msgid "Channelnumber in Standby off"
 msgstr "Zendernummer in Stand-by uit"
 
+#: ../plugin.py:61
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Zendernummer/Klok in Stand-by Klok"
 
+#: ../plugin.py:61
 msgid "Clock always"
 msgstr "Klok altijd"
 
+#: ../plugin.py:262
 msgid "Save"
 msgstr "Sla op"
 
+#: ../plugin.py:276 ../plugin.py:290
 msgid "Show on VFD"
 msgstr "Toon op VFD"
 
+#: ../plugin.py:278
 msgid "Time mode"
 msgstr "Tijdmodus"
 
+#: ../plugin.py:263
 msgid "Update Date/Time"
 msgstr "Update datum/tijd"
 
+#: ../plugin.py:341
 msgid "VFD_SF8"
 msgstr "VFD_SF8"
